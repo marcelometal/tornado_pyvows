@@ -1,0 +1,5 @@
+tornado-pyvows (0.6.0-1) unstable; urgency=low
+
+  * Initial version (Closes: #783575)
+
+ -- Marcelo Jorge Vieira <metal@debian.org>  Mon, 27 Apr 2015 23:12:23 -0300
